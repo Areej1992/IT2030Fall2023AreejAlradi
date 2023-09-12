@@ -1,0 +1,7 @@
+"In Week 2, I created the Home page for my retail app using the ASP.NET Core Model-View-Controller (MVC) template. The Home page features a navigation bar and menu options for future assignments. I started by setting up a web app with a project name that includes my first name and the category for my project. For example, if my first name is Becca and the category is jewelry, my project name is BeccaGems.
+
+I added a detailed summary description of my retail store, which I had developed in Week 1, to the Views/Home/Index.cshtml file. This description consists of at least two paragraphs, each containing a minimum of three sentences. Additionally, I included an image on the Home page by creating an 'images' folder in the 'wwwroot' directory of my project and storing the image files there. To enhance the visual design, I utilized a custom CSS file named 'custom.css' and linked it in the Views/Shared/_Layout.cshtml file, ensuring it follows the Bootstrap stylesheet.
+
+After completing these steps, I thoroughly tested my app to ensure its functionality and appearance. Finally, I uploaded all my Week 2 lab files, including the Visual Studio project files and the solution file, to my GitHub Week 2 folder. I also included a Readme.md file within the GitHub folder, summarizing the key aspects of my Week 2 lab.
+
+To complete the lab assignment, I submitted the link to my Week 2 GitHub repository on the Blackboard platform, allowing for evaluation and grades."
